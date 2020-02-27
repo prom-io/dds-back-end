@@ -1,0 +1,3 @@
+[submodule "sia-fork"]
+	path = sia-fork
+	url = https://github.com/Prometeus-Network/sia-fork.git
