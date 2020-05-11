@@ -8,9 +8,7 @@
 
 ## Description
 
-DDS is an application which will work directly with sia nodes to store the required data through out the network distributed between multiple nodes.
-
-Sia is the leading decentralized cloud storage platform. No signups, no servers, no trusted third parties. Sia leverages blockchain technology to create a data storage marketplace that is more robust and more affordable than traditional cloud storage providers.
+DDS is an application which will work directly with sia nodes to store the required data through out the network distributed between multiple nodes in Stoa: Data Exchange Platform within Prometeus ecosystem.
 
 DDS will expose internal API for uploading and downloading, also it will allow to get information information about consumed storage space by each particular node.
 
