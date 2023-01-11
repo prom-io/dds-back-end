@@ -27,7 +27,7 @@
     "@types/web3": "^1.2.2",
     "bignumber.js": "^9.0.0",
     "class-transformer": "^0.2.3",
-    "class-validator": "^0.11.0",
+    "class-validator": "^0.14.0",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.0",
     "rxjs": "^6.5.3",
